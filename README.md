@@ -16,3 +16,5 @@ Contornos de bairros de Goiânia e Aparecida de Goiânia (GO) em GeoJSON, coorde
 - Aparecida de Goiânia: shapefile de bairros publicado em forest-gis.com.
 
 Geometria simplificada com mapshaper para uso em mapas de região (ex.: Metabase).
+
+`depara-bairros-cadastro.csv`: grafias de bairro encontradas em cadastro (cidade `GYN`/`APG` + nome em maiúsculo) ligadas à `chave` do GeoJSON. A coluna `como` diz se a ligação foi exata, só pelo nome, aproximada ou manual.
